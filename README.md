@@ -2,6 +2,8 @@
 
 ### Lab 01b - Markdown Practice and Growth Mindset
 
+My name is **Kyle Freemantle,** a student developer at Code Fellows.  I'm transitioning to development after 7 years in increasingly esoteric healthcare IT roles.  
+
 ![brain image](https://live.staticflickr.com/3845/14760618496_ca4ea66344_b.jpg)
 
 ***Notes on Growth Mindset***
