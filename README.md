@@ -15,3 +15,9 @@ To me a growth mindset is about flexibility, resilience, and most importantly, _
 - **Be honest and grateful.**  Sometimes, if we're not clear about what we want or why we're doing the things we're doing, we can spend a lot of time and effort in pursuits that feel wasteful.  It is important to me to regularly self-check my reasons for learning to code, so that I _do_ continue to be enthusiastic, curious, and grateful for the opportunity to pursue something rewarding.
 
 My student work with Code Fellows and current projects can be found on my [GitHub page.](https://github.com/kfreemantle)
+
+
+### Table of Contents
+
+- [Reading Assignment 1](RD1.md)
+- [Reading Assignment 2](RD2.md)
