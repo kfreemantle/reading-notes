@@ -1,4 +1,17 @@
-## Kyle Freemantle - Code 102 - 9 January 2022
+## Kyle Freemantle - Code 102 - Notes
+
+
+### Table of Contents
+
+#### Labs
+- [Lab 01 exercise](Lab01.md)
+
+#### Readings
+- [Reading Assignment 1](RD1.md)
+- [Reading Assignment 2](RD2.md)
+- [Reading Assignment 3](RD3.md)
+
+
 
 ### Lab 01b - Markdown Practice and Growth Mindset
 
@@ -17,7 +30,3 @@ To me a growth mindset is about flexibility, resilience, and most importantly, _
 My student work with Code Fellows and current projects can be found on my [GitHub page.](https://github.com/kfreemantle)
 
 
-### Table of Contents
-
-- [Reading Assignment 1](RD1.md)
-- [Reading Assignment 2](RD2.md)
