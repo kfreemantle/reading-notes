@@ -14,11 +14,21 @@ How much capacity does your cloud have?  Over one thousand.
 ### Git vs GitHub
 
 - **GitHub is not Git.**  
-- Github is a way to share code with others, an online repository.  
+- **Git** is a version control system developed by Linus Torvalds in the early 2000s, partially out of ***spite.***
+- **Github** is a way to share code with other individuals and teammates.  It's an online repository. 
 - Github uses **Git** to help you manage team work, including timestamps, notes, multiple user editing, etc.
 - **Git** is *version control,* and **GitHub** is *online code storage.*  
 - It is *crucial* to keep version control and access as transparent as possible.  
 - ***Take your bloody notes before you commit!***
+
+#### Git notes
+- **git config --list** command shows current git configuration settings, including your **working repository and remote origin.**
+- There are three ways to get more information on a particular command, by accessing the manual:
+1. git help command
+2. git command --help
+3. man git-command
+
+[A very good guide on Git and the A-C-P process.](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 ### What's a repository?
 
@@ -40,3 +50,13 @@ How much capacity does your cloud have?  Over one thousand.
 - **git push** is used to publish the commits to the Github page.  *This is actually shipping the box of toys.
 
 If you've made changes in the browser in GitHub, the command **git pull** can be used to pull any different changes into your local environment from Github origin/main.
+
+
+### Things I want to know more about
+
+- I want to get a better sense of what is and is not a 'meaningful' change.
+- How do people pull reports on version change history?  I bet it could be useful data for a BA.'
+- Git stores a **reference** for each committed change.  How is that reference generated and later accessed?
+
+
+
