@@ -44,3 +44,7 @@ Several different approaches to wireframing can be taken by UX designers.  The b
 - **Indentation** helps in your HTML to show which boxes live in which boxes (boxen?)
 
 
+### Things I want to know more about
+- What are some beginner mistakes I can avoid to save myself time with HTML?
+- What are good fundamental habits to get into **now** to become more proficient with HTML?
+
