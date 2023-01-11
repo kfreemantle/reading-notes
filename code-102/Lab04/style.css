@@ -1,0 +1,90 @@
+## global . rules
+
+* {
+    box-sizing:border-box;
+}
+
+.box {
+    float:left;
+    width:33.33%;
+    padding:50px;
+}
+
+.img-container {
+    float:left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.clearfix::after {
+    content:"";
+    clear: both;
+    display: table;
+    
+}
+
+section {
+    text-align:center;
+    border: 2px solid #0000ff;
+    float: left;
+}
+
+header {
+    margin: 75px;
+    padding: 8px;
+    border: 2px solid red;
+    background-image url(Pixel1.jpg)
+
+}
+
+main {
+    margin: 85px;
+    padding: 8px;
+    border: solid yellow;
+
+}
+
+footer {
+    margin: 75px;
+    padding: 8px;
+    border: 2px solid red;
+}
+
+article {
+    background-color: gray;
+}
+
+a:link {
+    color: pink;
+}
+a:visited {
+    color:rgb(150, 34, 144)
+}
+a:hover {
+    color: whitesmoke;
+}
+
+img {
+    object-fit: contain;
+    width:max-content;
+    height:500px;
+}
+
+##ID arguments
+
+##class arguments
+.bgSizeContain {
+    background-image: url(Pixel1.jpg)
+    border 2px solid;
+    color: black;
+    resize: both;
+    overflow: scroll;
+
+}
+
+.boneoncoal {
+    background-color:rgb(36, 25, 25);
+    color: rgb(218, 203, 203);
+    
+
+}
