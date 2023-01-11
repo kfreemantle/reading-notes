@@ -85,4 +85,5 @@ Per [W3Schools](https://www.w3schools.com/cssref/css_colors_legal.php):
 
 
 #### Things to learn later
-- 
+- So, so, so much CSS.  
+- This seems like it's just going to be about practice.
