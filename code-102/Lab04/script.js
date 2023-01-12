@@ -5,25 +5,32 @@
 
  let name = ""
         if (confirm('Please confirm you are agreeing to provide full-time care for this cat.  At your cost.  Indefinitely.')) {
-            document.write("Pixel says muchas gracias!");
+            console.log("Pixel says muchas gracias!");
             name = prompt("What's your name, indefinite caregiver?", "");
-            const catColor = 'black';
-            let userGuess = prompt('What color is Pixel?');
-            console.log("User guessed: ") +userGuess);
+            const catColor = 'BLACK';
+            let userGuess = prompt('What is the best cat color?');
+            console.log("User guess is: " +userGuess);
+            userGuess = userGuess.toUpperCase();
+            if (userGuess == catColor) {
+                console.log("Your favorite cat color is correct.");
+                let userColorChoice = 'correct';
+                } else {
+                console.log("Incorrect. Pixel is a black cat.");
+                }
             
         
         } else {
             document.write("Pixel seems sad, but understanding. :(");
             location.href = 'https://seattleareafelinerescue.org/';
         }
-        document.write(`Hola y gracias, ${name}!`)
-        const catColor = 'black';
-        let userGuess = prompt('What is the best cat color?');
-        if (userGuess == catColor) {
-            document.write('Your favorite cat color is correct!')
-        } else {
-            document.write("Your favorite cat color is incorrect.")
-        }
+//        document.write(`Hola y gracias, ${name}!`)
+//        const catColor = 'black';
+//        let userGuess = prompt('What is the best cat color?');
+//        if (userGuess == catColor) {
+//            document.write('Your favorite cat color is correct!')
+//        } else {
+//            document.write("Your favorite cat color is incorrect.")
+//        }
         
 
 //if (userGuess == catColor) {
