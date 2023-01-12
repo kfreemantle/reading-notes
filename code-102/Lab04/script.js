@@ -1,13 +1,12 @@
-//basic definitions
-
-    
 //conditional logic
 
- let name = ""
-        if (confirm('Please confirm you are agreeing to provide full-time care for this cat.  At your cost.  Indefinitely.')) {
-            console.log("Pixel says muchas gracias!");
-            name = prompt("What's your name, indefinite caregiver?", "");
-            const catColor = 'BLACK';
+//function welcomeUser() {
+//let catColor = 'BLACK'
+    if (confirm('Please confirm you are agreeing to provide full-time care for this cat.  At your cost.  Indefinitely.')) {
+        console.log("Pixel says muchas gracias!");
+        let catColor = 'BLACK';
+        let userName = prompt("What's your name, indefinite caregiver?", "");
+            console.log(userName)
             let userGuess = prompt('What is the best cat color?');
             console.log("User guess is: " +userGuess);
             userGuess = userGuess.toUpperCase();
@@ -15,7 +14,7 @@
                 console.log("Your favorite cat color is correct.");
                 let userColorChoice = 'correct';
                 } else {
-                console.log("Incorrect. Pixel is a black cat.");
+                console.log("Incorrect. The best cat is black cat.");
                 }
             
         
@@ -23,6 +22,25 @@
             document.write("Pixel seems sad, but understanding. :(");
             location.href = 'https://seattleareafelinerescue.org/';
         }
+    
+
+//function askAvailability()
+    let userDays = prompt('Are you available MWF or TTS?');
+    userDays = userDays.toUpperCase();
+    if (userDays == 'MWF') {
+        console.log("User is available Monday/Wednesday/Friday.")
+    } else if (userDays =='TTS') {
+        console.log("User is available Tuesday/Thursday/Saturday.")
+    } else {
+        console.log("Invalid value for days available");
+        userDays = prompt('Please indicate whether you are available MWF or TTS.');
+        userDays = userDays.toUpperCase();
+        console.log("User is available on " + userDays + ".")
+    
+    }
+
+ 
+
 //        document.write(`Hola y gracias, ${name}!`)
 //        const catColor = 'black';
 //        let userGuess = prompt('What is the best cat color?');
