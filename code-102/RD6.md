@@ -80,4 +80,4 @@ When using if/else statements, every **if and else if** statment has a condition
 #### Things to learn later
 - The assignment operator in JavaScript.
 - How to use variable inside of strings.
-
+- I could use a tool that lets me cycle through several different presets when trying out different CSS styles, i.e. tab selecting between 100px, 200px, 300px, etc for image-width, or between several different previously used values.  Currently it's pretty laborious.

@@ -25,32 +25,35 @@
 
 section {
     
-    margin: 85px;
+    display: block; 
+    margin: 0 auto;
     padding: 8px;
-    border: 2px solid #0000ff;
+    //border: 2px solid #0000ff;
     float: left;
 }
 
 header {
     margin: 85px;
     padding: 8px;
-    border: 2px solid red;
+    //border: 2px solid red;
     background-image: url(https://i.pinimg.com/originals/29/a1/7d/29a17d65ef332a59927144449bb9c66c.jpg);
     contain:
 
 }
 
+
+
 main {
     margin: 85px;
     padding: 8px;
-    border: solid yellow;
+    //border: solid yellow;
 
 }
 
 footer {
     margin: 75px;
     padding: 8px;
-    border: 2px solid red;
+    //border: 2px solid red;
 }
 
 article {
