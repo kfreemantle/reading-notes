@@ -3,7 +3,7 @@
 ### Class notes and reading assignment: Read 07
 
 #### JavaScript beginning of day misc. notes
-!(javascript bond)[https://1.bp.blogspot.com/-8UmWFTngfwY/XkVRuoPFfkI/AAAAAAAACmI/93j-FMkA9EYyoRIT1qlJ2sMUbobnWT1UgCLcBGAsYHQ/s1600/javascript_var.png]
+![javascript bond](https://1.bp.blogspot.com/-8UmWFTngfwY/XkVRuoPFfkI/AAAAAAAACmI/93j-FMkA9EYyoRIT1qlJ2sMUbobnWT1UgCLcBGAsYHQ/s1600/javascript_var.png)
 
 Code comments with // can be useful for explaining context in your code and keeping organized for yourself and other developers.
 
