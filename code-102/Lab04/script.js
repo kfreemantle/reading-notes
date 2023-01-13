@@ -1,7 +1,7 @@
 //conditional logic
 
 //function welcomeUser() {
-//let catColor = 'BLACK'
+
     if (confirm('Please confirm you are agreeing to provide full-time care for this cat.  At your cost.  Indefinitely.')) {
         console.log("Pixel says muchas gracias!");
         let catColor = 'BLACK';
@@ -22,9 +22,9 @@
             document.write("Pixel seems sad, but understanding. :(");
             location.href = 'https://seattleareafelinerescue.org/';
         }
-    
+//}
 
-//function askAvailability()
+//function askAvailability(){
     let userDays = prompt('Are you available MWF or TTS?');
     userDays = userDays.toUpperCase();
     if (userDays == 'MWF') {
@@ -35,11 +35,22 @@
         console.log("Invalid value for days available");
         userDays = prompt('Please indicate whether you are available MWF or TTS.');
         userDays = userDays.toUpperCase();
-        console.log("User is available on " + userDays + ".")
+           console.log("User is available on " + userDays + ".")
     
     }
+//}
 
- 
+//function askCoupons() {
+    let couponCount = prompt('How many days total will you be taking care of Pixel, with a minimum of 6?');
+    while (couponCount <= 5) {
+        couponCount = prompt('Again, the minimum days is 6.  How many days can you take care of Pixel?');
+        }
+
+    for (let c = 0; c < couponCount; c++) {
+        document.write('<img src=catfood.jpg>');
+    }
+
+//}
 
 //        document.write(`Hola y gracias, ${name}!`)
 //        const catColor = 'black';
