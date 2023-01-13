@@ -64,11 +64,12 @@ for (let i = 0; i < myNumber; i++>} {
 #### Loops - reading notes not covered in lecture notes
 
 Like covered in the lecture, **loops repeat a given action some number of times.**  There's a lot of different ways to determine the start and end points of a loop, and the objective dictates which is best to use.  There's 8 different loop statements in JavaScript but we're going to focus on **for** loops and **while** loops.
-
+Loops that you create need to have their **output** directed somewhere for it to be usable later.  **console.log()** is a useful argument for storing the output of a loop.
 
 
 #### What I want to know more about
 - Destructuring syntax doesn't make much sense.  I get the utility of extracting data from arrays, but I don't get how it's executed.
 - Working with objects is baffling.
 - Chaining assignments looks baffling **and** ill-advised.
-- 
+- Remember, **while** loops are loops dealing with potentially infinite situations, like how long a user can take to enter their password right.  A **for** loop runs so long as a specific condition is met, or things with a **specific number of iterations.**
+
