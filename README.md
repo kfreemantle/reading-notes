@@ -17,7 +17,6 @@ My name is **Kyle Freemantle,** a student developer at Code Fellows.  I'm transi
 - [Reading Assignment 7](code-102/RD7.md)
 - [Reading Assignment 8](code-102/RD8.md)
 - [Reading Assignment 9](code-102/RD9.md)
-- [Reading Assignment 10](code-102/RD10.md)
 
 ##### Code-201
 - [Reading Assignment 1](code-201/RD01.md)
