@@ -41,7 +41,7 @@ My name is **Kyle Freemantle,** a student developer at Code Fellows.  I'm transi
 #### Labs (not all have notes)
 
 ##### Code-201
-- [Lab 01 exercise](projects/courses/reading-notes/code-201/Lab01/index.html)
+- [Lab 01 exercise](/reading-notes/code-201/Lab01/index.html)
 
 
 ##### Code-102
