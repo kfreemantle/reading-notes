@@ -50,4 +50,4 @@ My name is **Kyle Freemantle,** a student developer at Code Fellows.  I'm transi
 
 
 ***Keep calm.***
-![Venture-Bros-Calm](brock.gif)
+![Venture-bros-calm](brock.gif)
