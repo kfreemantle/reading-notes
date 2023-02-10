@@ -8,7 +8,12 @@ My name is **Kyle Freemantle,** a student developer at Code Fellows.  I'm transi
 #### Reading/Lecture notes
 
 
+#### Team Blue - code201 final project 
+
+- [Project Planning 1 - Outline](code-201/teamBlue.md)
+
 ##### Code-201 - Foundations
+
 - [Reading Assignment 1](code-201/RD01.md)
 - [Reading Assignment 2](code-201/RD02.md)
 - [Reading Assignment 3](code-201/RD03.md)

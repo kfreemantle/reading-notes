@@ -1,5 +1,7 @@
 ## Team Blue
 
+#### Jon Tsai, Thomas Lau, Kyle Freemantle
+
 
 
 ### Cooperation Plan
