@@ -1,16 +1,13 @@
 ## Kyle Freemantle ~ *Reading Notes*
 
 
-My name is **Kyle Freemantle,** a student developer at Code Fellows.  I'm transitioning to development after 7 years in increasingly esoteric healthcare IT roles.  This page is my first student project, housing the notes I've taken for Code 102.  I am taking notes in every lecture with VSCode on a Ubuntu laptop and publishing them to my [GitHub page.](https://kfreemantle.github.io/reading-notes/)
+My name is **Kyle Freemantle,** a student developer at Code Fellows.  I'm transitioning to development after 7 years in increasingly esoteric healthcare IT roles.  This page is my first student project, housing the notes I've taken for Code 102.  I am taking notes in every lecture with VSCode on a Ubuntu LTS 22.04 laptop and publishing them to my [GitHub page.](https://kfreemantle.github.io/reading-notes/)
 
 ### *Table of Contents*
 
 #### Reading/Lecture notes
 
 
-#### Team Blue - code201 final project 
-
-- [Project Planning 1 - Outline](code-201/teamBlue.md)
 
 ##### Code-301 - Intermediate Software Development
 
@@ -49,6 +46,7 @@ My name is **Kyle Freemantle,** a student developer at Code Fellows.  I'm transi
 - [Reading Assignment 14](code-201/RD14.md)
 - [Reading Assignment 15](code-201/RD15.md)
 
+
 ##### Code-102 - Intro
 - [Reading Assignment 1](code-102/RD1.md)
 - [Reading Assignment 2](code-102/RD2.md)
@@ -74,4 +72,4 @@ My name is **Kyle Freemantle,** a student developer at Code Fellows.  I'm transi
 
 
 ***Keep calm.***
-![Venture-bros-calm](brock.gif)
+![Venture-bros-calm](img/sylvester-cigar.gif)
