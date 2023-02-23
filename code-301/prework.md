@@ -1,3 +1,7 @@
+# 301 Pre-work
+
+
+
 ## Dive into React
 
 - What is React?
@@ -29,7 +33,7 @@
 > State.
 
 
-#### Behavioral Interview Questions
+## Behavioral Interview Questions
 
 Question 1: What's your greatest strength?  
 Answer: I enjoy being uncomfortable and out of my depth, because it means I can error correct towards being smarter and stronger.
@@ -67,3 +71,8 @@ Task: In late 2020 I explained my situation to my employer, and took medical lea
 Action: I spent over a year cleaning up my entire life.
 
 Result: I got healthy, I relearned resilience, and I became much more empathetic and well adjusted.  I look forward to waking up every day, going to bed every night, and doing challenging work with intelligent people in between.
+
+
+## Talk to your network
+
+I am blessed with several mentors who are senior engineers and dev managers whom I am in frequent contact with.  For 301 I intend to speak with my friend David Ellis, a senior engineer at SheerID here in Seattle.  We've known each other for about two years, and we met in a parenting group when both of our families were expecting our first children.  Since David is an experienced senior engineer and is very familiar with data structures and algorithms I very much look forward to picking his brain during the course of the.. course.  I'd also like to learn more about SCRUM from him, as I aspire to be a SCRUM master later and he has had experience implementing the process.
