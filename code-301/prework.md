@@ -76,3 +76,11 @@ Result: I got healthy, I relearned resilience, and I became much more empathetic
 ## Talk to your network
 
 I am blessed with several mentors who are senior engineers and dev managers whom I am in frequent contact with.  For 301 I intend to speak with my friend David Ellis, a senior engineer at SheerID here in Seattle.  We've known each other for about two years, and we met in a parenting group when both of our families were expecting our first children.  Since David is an experienced senior engineer and is very familiar with data structures and algorithms I very much look forward to picking his brain during the course of the.. course.  I'd also like to learn more about SCRUM from him, as I aspire to be a SCRUM master later and he has had experience implementing the process.
+
+## Professional Pitch
+
+I'm Kyle, and I'm a software developer currently studying at Code Fellows.  Prior to this I did my best work in healthcare tech, spending 7 years in increasingly complex analyst and IT support roles.  I chose to pursue software development because the most fun I've ever had professionally has been working with engineering to implement the product team's designs.  I am certain that having lived in the support and product worlds gives me invaluable context for software design that I could only gain by first hand experience.  
+
+I would like to use my powers for good and go back into healthcare tech at a small or medium sized company, where I can best leverage my previous experience.  Most of all, it's very important to me to know that the work I do could somehow help someone else who's struggling.  
+
+Thanks for your time.
