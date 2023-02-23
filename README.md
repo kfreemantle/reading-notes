@@ -12,6 +12,25 @@ My name is **Kyle Freemantle,** a student developer at Code Fellows.  I'm transi
 
 - [Project Planning 1 - Outline](code-201/teamBlue.md)
 
+##### Code-301 - Intermediate Software Development
+
+- [Reading Assignment 1](code-301/RD01.md)
+- [Reading Assignment 2](code-301/RD02.md)
+- [Reading Assignment 3](code-301/RD03.md)
+- [Reading Assignment 4](code-301/RD04.md)
+- [Reading Assignment 5](code-301/RD05.md)
+- [Reading Assignment 6](code-301/RD06.md)
+- [Reading Assignment 7](code-301/RD07.md)
+- [Reading Assignment 8](code-301/RD08.md)
+- [Reading Assignment 9](code-301/RD09.md)
+- [Reading Assignment 10](code-301/RD10.md)
+- [Reading Assignment 11](code-301/RD11.md)
+- [Reading Assignment 12](code-301/RD12.md)
+- [Reading Assignment 13](code-301/RD13.md)
+- [Reading Assignment 14](code-301/RD14.md)
+
+- [Pre-work Assignments](code-301/prework.md)
+
 ##### Code-201 - Foundations
 
 - [Reading Assignment 1](code-201/RD01.md)
