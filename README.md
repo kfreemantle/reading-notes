@@ -71,5 +71,5 @@ My name is **Kyle Freemantle,** a student developer at Code Fellows.  I'm transi
 - [Lab 04 exercise](/reading-notes/code-102/Lab04/index.html)
 
 
-***Keep calm.***
+###### ***Keep calm.***
 ![Venture-bros-calm](img/sylvester-cigar.gif)
