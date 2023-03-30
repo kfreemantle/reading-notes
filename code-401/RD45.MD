@@ -1,0 +1,19 @@
+# Class XX: Topic
+
+### Code review, lecture and reading notes
+
+
+#### Assigned Reading Answers
+
+- Reading Question
+
+> Reading Answer
+
+
+#### Code Review, Lecture Notes, Reading notes
+
+
+
+##### Things I want to know more about
+
+- 
