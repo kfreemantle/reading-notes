@@ -9,6 +9,53 @@ My name is **Kyle Freemantle,** a student developer at Code Fellows.  I'm transi
 
 
 
+##### Code-401 - Advanced Javascript
+
+- [401 Prework](/code-401/prework.md)
+
+- [Reading Assignment 1](/code-401/RD1.md)
+- [Reading Assignment 2](/code-401/RD2.md)
+- [Reading Assignment 3](/code-401/RD3.md)
+- [Reading Assignment 4](/code-401/RD4.md)
+- [Reading Assignment 5](/code-401/RD5.md)
+- [Reading Assignment 6](/code-401/RD6.md)
+- [Reading Assignment 7](/code-401/RD7.md)
+- [Reading Assignment 8](/code-401/RD8.md)
+- [Reading Assignment 9](/code-401/RD9.md)
+- [Reading Assignment 10](/code-401/RD10.md)
+- [Reading Assignment 11](/code-401/RD11.md)
+- [Reading Assignment 12](/code-401/RD12.md)
+- [Reading Assignment 13](/code-401/RD13.md)
+- [Reading Assignment 14](/code-401/RD14.md)
+- [Reading Assignment 15](/code-401/RD15.md)
+- [Reading Assignment 16](/code-401/RD16.md)
+- [Reading Assignment 17](/code-401/RD17.md)
+- [Reading Assignment 18](/code-401/RD18.md)
+- [Reading Assignment 19](/code-401/RD19.md)
+- [Reading Assignment 20](/code-401/RD20.md)
+- [Reading Assignment 21](/code-401/RD21.md)
+- [Reading Assignment 22](/code-401/RD22.md)
+- [Reading Assignment 23](/code-401/RD23.md)
+- [Reading Assignment 24](/code-401/RD24.md)
+- [Reading Assignment 25](/code-401/RD25.md)
+- [Reading Assignment 26](/code-401/RD26.md)
+- [Reading Assignment 27](/code-401/RD27.md)
+- [Reading Assignment 28](/code-401/RD28.md)
+- [Reading Assignment 29](/code-401/RD29.md)
+- [Reading Assignment 30](/code-401/RD30.md)
+- [Reading Assignment 31](/code-401/RD31.md)
+- [Reading Assignment 32](/code-401/RD32.md)
+- [Reading Assignment 33](/code-401/RD33.md)
+- [Reading Assignment 34](/code-401/RD34.md)
+- [Reading Assignment 35](/code-401/RD35.md)
+- [Reading Assignment 36](/code-401/RD36.md)
+- [Reading Assignment 37](/code-401/RD37.md)
+- [Reading Assignment 38](/code-401/RD38.md)
+- [Reading Assignment 39](/code-401/RD39.md)
+- [Reading Assignment 40](/code-401/RD40.md)
+- [Reading Assignment 41](/code-401/RD41.md)
+
+
 ##### Code-301 - Intermediate Software Development
 
 - [Reading Assignment 1](code-301/RD01.md)
