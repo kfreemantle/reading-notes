@@ -14,10 +14,9 @@
 ![sql screenshots](./img/SQLBolt5.png)
 ![sql screenshots](./img/SQLBolt6.png)
 ![sql screenshots](./img/SQLBolt7.png)
-![sql screenshots](.img/SQLBolt8.png)
+![sql screenshots](./img/SQLBolt8.png)
 ![sql screenshots](./img/SQLBolt9.png)
 ![sql screenshots](./img/SQLBolt10.png)
 ![sql screenshots](./img/SQLBolt11.png)
 ![sql screenshots](./img/SQLBolt12.png)
-
 
