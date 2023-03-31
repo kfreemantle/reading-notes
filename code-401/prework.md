@@ -20,3 +20,8 @@
 ![sql screenshots](./img/SQLBolt11.png)
 ![sql screenshots](./img/SQLBolt12.png)
 
+
+
+## Command line notes
+
+I've spent a lot of time on ryanstutorials.net for the command line before this.  When I started code 102 I set up my laptop for Ubuntu 22.04 LTS, and it was the first time in probably 20 years I'd been working with a pure Linux system.  So, getting comfortable with the command line was pretty important.  I think one of my biggest hurdles was actually understanding that it's an extensionless filesystem.  As someone who used Windows systems almost exclusively my whole life that's been pretty tough to track.  I've kept a cheat sheet of the most common commands that I need and then forget, like mkdir, touch and ps.  One thing I'm still not very good at is chaining commands with the | operator, but I'm getting better.  I think with some more remediation and some time on a Udemy course I can get to be a power user at the command line.  If I intend to keep using Linux systems it's pretty vital!
