@@ -68,7 +68,31 @@ CI/CD
 
 #### Code Review, Lecture Notes, Reading notes
 
+- 0915: whiteboarding exercise for the array.prototype.map function.
 
+- 0919: running objects through the map function.
+
+- **Important!** The map function does NOT modify the length of the array, or if you're feeding an object in, the KEYS.  It only modifies the VALUES of those pairs or the VALUES of the arrays.  Index/keys are not modified.  
+
+- 0921: setting up the test for the map function.
+
+- 0950-1010: **review** going through the warmup exercise.
+
+- 1023: Discussion of Middleware.  
+
+- Middleware is software that happens 'between' two other pieces of software, maybe what's happening between different software layers.
+
+- Express defines middleware as a function that runs between the *request* and *response*.  
+
+- function(request, response, **next**)
+
+- next is the part where the output of the response is passed to the *next* part of the middleware or application.
+
+- 1030: taking the allCaps function and turning it into its own component piece of middleware.
+
+- 1052: how modules are loaded for index.js
+
+- 
 
 ##### Things I want to know more about
 
