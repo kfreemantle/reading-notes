@@ -1,4 +1,4 @@
-# Class 03: Express, NPM, TDD, CI/CD
+# Class 03: Express REST API
 
 ### Code review, lecture and reading notes
 
