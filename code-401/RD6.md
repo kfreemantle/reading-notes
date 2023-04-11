@@ -40,7 +40,7 @@
 
 #### Code Review, Lecture Notes, Reading notes
 
-
+- 
 
 ##### Things I want to know more about
 
