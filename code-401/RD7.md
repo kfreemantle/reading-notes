@@ -43,7 +43,9 @@
 
 #### Code Review, Lecture Notes, Reading notes
 
+- 0933: code review, talking about unit testing.
 
+- 
 
 ##### Things I want to know more about
 
