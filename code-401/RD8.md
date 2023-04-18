@@ -45,7 +45,11 @@
 
 #### Code Review, Lecture Notes, Reading notes
 
+- 0948: code review
 
+- 1045: access control lecture begins
+
+- 
 
 ##### Things I want to know more about
 
